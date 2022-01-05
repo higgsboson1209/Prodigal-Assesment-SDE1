@@ -18,10 +18,10 @@ this makes it much easier for me to deploy this using docker.
 
 There is only a single Collection in my Cluster called MUTUAL-FUND-DATA
 ### Schema
-![Image of my table row](https://github.com/higgsboson1209/Prodigal-Technologies---Assignment-/blob/main/image.png)
+![Image of my table row](https://github.com/higgsboson1209/Prodigal-Assesment-SDE1/blob/main/image.png)
 
 ### Final Output
-![Screen shot of final output](https://github.com/higgsboson1209/Prodigal-Technologies---Assignment-/blob/main/CODE-EXECUTION-TIME.png)
+![Screen shot of final output](https://github.com/higgsboson1209/Prodigal-Assesment-SDE1/blob/main/CODE-EXECUTION-TIME.png)
 
 ## SCOPE OF IMPROVEMENT
 
