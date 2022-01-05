@@ -1,0 +1,5 @@
+dnspython==2.1.0
+mysql-connector-python==8.0.27
+protobuf==3.19.1
+pymongo==4.0.1
+tqdm==4.62.3
